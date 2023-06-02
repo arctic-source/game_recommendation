@@ -1,5 +1,5 @@
 # Game Recommendation System
-This project was created by Martin Čičala. Feel free to reach out to me on [LinkedIn]([Your LinkedIn profile URL](https://www.linkedin.com/in/martin-%C4%8Di%C4%8Dala-545638182/)) or via email at martin.cicala[at]gmail.com.
+This project was created by Martin Čičala. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/martin-%C4%8Di%C4%8Dala-545638182/) or via email at martin.cicala[at]gmail.com.
 ![Neuron Animation](https://github.com/arctic-source/game_recommendation/blob/master/animations/best/2.gif)
 
 ## Introduction
@@ -69,13 +69,5 @@ In summary, this project has enriched my understanding of data science and machi
 
 ## Future Enhancements
 To further improve the project, in the future I would like to improve the application optimization by running more quickly - suggesting game titles more quickly and scraping the internet in real time more quickly. There are also other ways to rework the program - for example, using a reinforcement learning system where the user would rate the recommendations and so the system would learn from this input. Or, game descriptions could be turned into numerical data and included in similarity calculation, although this would likely not bring a huge positive impact in recommendation.
-
-## Acknowledgements
-This project was a personal initiative and a learning journey. I would like to acknowledge the following:
-
-- The plethora of resources available online, such as blog posts, tutorials, and Stack Overflow questions that guided me through various stages of this project.
-- The OpenAI ChatGPT for providing helpful guidance and feedback.
-
-Lastly, a big thank you to the gaming and data science communities for constantly inspiring and motivating me to learn and grow.
 
 ![Neuron Animation](https://github.com/arctic-source/game_recommendation/blob/master/animations/best/3.gif)
