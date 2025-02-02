@@ -8,11 +8,11 @@
 
 ## Screenshots
 **Main Window**
-![Screenshot 1](/screenshots/0.PNG)
+![Screenshot 1](/screenshots/0.png)
 **Loading screen**
-![Screenshot 0.6](/screenshots/0.6.PNG)
+![Screenshot 0.6](/screenshots/0_loading.png)
 **Autocomplete**
-![Screenshot 0.5](/screenshots/0.5.PNG)
+![Screenshot 0.5](/screenshots/0_autocomplete.png)
 **Example game recommendation**
 ![Screenshot 1](/screenshots/2.PNG) 
 
