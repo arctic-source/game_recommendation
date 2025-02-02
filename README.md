@@ -8,7 +8,7 @@
 
 ## Screenshots
 **Main Window**
-![Screenshot 1](/screenshots/0.png)
+![Screenshot 1](/screenshots/0_demo.png)
 **Loading screen**
 ![Screenshot 0.6](/screenshots/0_loading.png)
 **Autocomplete**
