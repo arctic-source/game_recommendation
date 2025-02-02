@@ -14,7 +14,7 @@
 **Autocomplete**
 ![Screenshot 0.5](/screenshots/0_autocomplete.png)
 **Example game recommendation**
-![Screenshot 1](/screenshots/2.PNG) 
+![Screenshot 1](/screenshots/2.png) 
 
 ---
 
